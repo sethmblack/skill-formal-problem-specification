@@ -3,8 +3,8 @@ name: formal-problem-specification
 description: Transform vague problem descriptions into precise formal specifications with defined domains, states, actions, and constraints before attempting solutions.
 license: MIT
 metadata:
+  version: 1.0.4027
   author: sethmblack
-  version: 1.0.4026
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - formal-problem-specification
